@@ -152,6 +152,6 @@ AI: Python is a general-purpose programming language known for simplicity and ve
 
 ## Author
 
-Youssef Amr
+Ahmed Abo Rashed
 
 Smart Academic Assistant — Local AI Academic Workspace.
